@@ -1,0 +1,155 @@
+2019-05-20 20:05:11 INFO  UtilityLibrary:31 - =========calling FirefoxDriver===========
+2019-05-20 20:05:30 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 20:49:51 INFO  UtilityLibrary:31 - =========calling FirefoxDriver===========
+2019-05-20 20:50:07 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 20:52:05 INFO  UtilityLibrary:31 - =========calling FirefoxDriver===========
+2019-05-20 20:52:56 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 20:53:06 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-20 20:53:07 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-20 20:53:07 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-20 20:53:07 INFO  Login:26 - ==========Enter username into Username field=====mngr193675
+2019-05-20 20:53:08 INFO  Login:28 - =========Enter Password into passwor field======ysagEje
+2019-05-20 20:53:08 INFO  Login:31 - ====CLicking on the submit======
+2019-05-20 20:54:52 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-20 20:55:32 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 20:55:43 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-20 20:55:43 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-20 20:55:43 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-20 20:55:43 INFO  Login:26 - ==========Enter username into Username field=====mngr193675
+2019-05-20 20:55:44 INFO  Login:28 - =========Enter Password into passwor field======ysagEje
+2019-05-20 20:55:44 INFO  Login:31 - ====CLicking on the submit======
+2019-05-20 23:13:02 INFO  UtilityLibrary:31 - =========calling FirefoxDriver===========
+2019-05-20 23:13:46 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 23:13:57 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-20 23:13:57 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-20 23:13:57 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-20 23:13:57 INFO  Login:26 - ==========Enter username into Username field=====mngr193675
+2019-05-20 23:13:57 INFO  Login:28 - =========Enter Password into passwor field======ysagEje
+2019-05-20 23:13:58 INFO  Login:31 - ====CLicking on the submit======
+2019-05-20 23:15:53 INFO  UtilityLibrary:31 - =========calling FirefoxDriver===========
+2019-05-20 23:16:06 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 23:16:09 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-20 23:16:09 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-20 23:16:09 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-20 23:16:09 INFO  Login:26 - ==========Enter username into Username field=====mngr193675
+2019-05-20 23:16:09 INFO  Login:28 - =========Enter Password into passwor field======ysagEje
+2019-05-20 23:16:09 INFO  Login:31 - ====CLicking on the submit======
+2019-05-20 23:19:47 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-20 23:20:05 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-20 23:20:10 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-20 23:20:10 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-20 23:20:10 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-20 23:20:10 INFO  Login:26 - ==========Enter username into Username field=====mngr193675
+2019-05-20 23:20:11 INFO  Login:28 - =========Enter Password into passwor field======ysagEje
+2019-05-20 23:20:11 INFO  Login:31 - ====CLicking on the submit======
+2019-05-25 07:26:54 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 07:28:43 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 07:47:32 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 12:35:14 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 12:35:14 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 12:36:41 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 12:36:41 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 12:36:54 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 12:36:54 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 12:55:46 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 12:55:51 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 12:55:58 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 13:13:09 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 13:13:14 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 13:13:20 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 13:57:36 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 13:57:44 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 13:57:50 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 14:01:39 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 14:01:43 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 14:01:48 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 15:35:54 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 15:36:01 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 15:36:08 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 15:37:46 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 15:37:50 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 15:37:56 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 15:38:45 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 15:38:49 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 15:39:07 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 15:40:16 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 15:40:18 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 15:40:23 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:05:09 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:05:16 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:05:31 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:10:52 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:10:55 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:11:00 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:21:57 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:22:04 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:22:17 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:29:46 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:29:49 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:29:55 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:35:28 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:35:33 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:35:41 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:42:01 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:42:05 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:42:14 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:44:49 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:44:54 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:45:02 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 16:52:58 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 16:53:03 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 16:53:08 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 19:24:12 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 19:24:20 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 19:24:27 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-25 21:02:30 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-25 21:02:34 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-25 21:02:46 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:10:37 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:10:44 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:10:49 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:11:41 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:11:45 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:11:50 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:13:08 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:13:12 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:13:17 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:32:45 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:32:52 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:33:03 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:34:50 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:34:53 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:34:58 INFO  Login:37 - =======Initiating Login page Element=========
+2019-05-26 10:48:43 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 10:48:48 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 10:48:52 INFO  Login:53 - =======Initiating Login page Element=========
+2019-05-26 11:02:10 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 11:02:13 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 11:02:16 INFO  Login:53 - =======Initiating Login page Element=========
+2019-05-26 11:10:08 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 11:10:11 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 11:10:16 INFO  Login:53 - =======Initiating Login page Element=========
+2019-05-26 13:51:35 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 13:51:46 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 13:51:51 INFO  Login:62 - =======Initiating Login page Element=========
+2019-05-26 13:51:51 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-26 13:51:51 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-26 13:51:51 INFO  Login:35 - ==========Enter username into Username field=====mngr193675
+2019-05-26 13:51:55 INFO  Login:37 - =========Enter Password into passwor field======ysagEje
+2019-05-26 13:51:57 INFO  Login:40 - ====CLicking on the submit======
+2019-05-26 13:53:59 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 13:54:03 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 13:54:08 INFO  Login:62 - =======Initiating Login page Element=========
+2019-05-26 13:54:08 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-26 13:54:08 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-26 13:54:08 INFO  Login:35 - ==========Enter username into Username field=====mngr193675
+2019-05-26 13:54:08 INFO  Login:37 - =========Enter Password into passwor field======ysagEje
+2019-05-26 13:54:08 INFO  Login:40 - ====CLicking on the submit======
+2019-05-26 19:45:42 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-05-26 19:45:46 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-05-26 19:45:52 INFO  Login:62 - =======Initiating Login page Element=========
+2019-05-26 19:45:54 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-05-26 19:45:54 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-05-26 19:45:54 INFO  Login:35 - ==========Enter username into Username field=====mngr193675
+2019-05-26 19:45:54 INFO  Login:37 - =========Enter Password into passwor field======ysagEje
+2019-05-26 19:45:54 INFO  Login:40 - ====CLicking on the submit======
