@@ -1,5 +1,9 @@
 package com.guru99BankingApp.PageObject;
 
+import java.text.SimpleDateFormat;
+import java.util.Random;
+
+import org.apache.commons.math3.random.RandomDataGenerator;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -16,7 +20,7 @@ public class Customer
 	public static final Logger log=Logger.getLogger(Customer.class.getName());
 	
 	
-	
+	@FindBy(xpath="/p[@class='heading3']")WebElement lblAddCustomerVerification;
 	@FindBy(how=How.XPATH,using="//input[@name='name']")WebElement txtCustomername;
 	@FindBy(how=How.XPATH,using="//tr[5]//td[2]//input[1]")WebElement rbn_gender_male;
 	@FindBy(how=How.XPATH,using="//tr[5]//td[2]//input[2]")WebElement rbn_gender_female;
@@ -31,9 +35,27 @@ public class Customer
 	@FindBy(how=How.XPATH,using="//input[@name='sub']")WebElement btn_submit;
 	@FindBy(how=How.XPATH,using="")WebElement btn_Reset;
 	@FindBy(how=How.XPATH,using="//a[contains(text(),'New Customer')]")WebElement lbl_CreateNewCustomer;
-	//@FindBy(how=How.XPATH,using="")WebElement
+	@FindBy(how=How.XPATH,using="//input[@name='password']")WebElement txt_CrPass;
+	@FindBy(xpath="//*[@id=\"customer\"]/tbody/tr[1]/td/p")WebElement successfullmessage;
+//"Customer Registered Successfully!!!";
+	public boolean getNewCustomerFormIsDisplayed()
+	{
+		return lblAddCustomerVerification.isDisplayed();
+	}
 	
-	
+	public boolean getVerifiedSuccessfulMsgIsDisplayed()
+	{
+		
+		return successfullmessage.isDisplayed();
+	}
+	public String getSuccessfulRegistrationMsg()
+	{
+		return successfullmessage.getText();
+	}
+	public void getNewCustomerFormMessage()
+	{
+		lblAddCustomerVerification.getText();
+	}
 	public void getCreateNewCustomer()
 	{
 		log.info("=====clicking on customer to create new customer========");
@@ -71,12 +93,21 @@ public class Customer
 		
 	}
 	
-
-	public void Address(String address)
+public void getCreatePass(String pass)
+{
+	log.info("========Typing the pass of the customer========="+" "+pass.toString());
+	txt_CrPass.sendKeys(pass);
+}
+	public void getAddress(String address)
 	{
 		log.info("========Typing the Address of the customer========="+" "+address.toString());
 		
 	txt_Address.sendKeys(address);
+	}
+	public void getCity(String city)
+	{
+		log.info("========Typing the city of the customer========="+" "+city.toString());
+		txt_city.sendKeys(city);
 	}
 	
 	public void Pin(String pin)
@@ -93,7 +124,9 @@ public class Customer
 		  txt_Mobile_number.sendKeys(mobile);
 	}
 	public void getEmail(String email)
-	{log.info("========Typing the Email of the Customer========="+email.toString());
+	{
+		//SimpleDateFormat e=new SimpleDateFormat("dd:MM:hh:mm:ss");
+		log.info("========Typing the Email of the Customer========="+email.toString());
 		txt_Email.sendKeys(email);
 	}
 	
@@ -118,4 +151,5 @@ public class Customer
 		log.info("============initiating NewCustomer class Element=====");
 		PageFactory.initElements(driver, this);
 	}
+
 }

@@ -1,6 +1,8 @@
 package com.guru99BankingApp.PageObject;
 
 import org.apache.log4j.Logger;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -27,7 +29,7 @@ public static final Logger log=Logger.getLogger(Login.class.getName());
 	
 	public String getFormTitleText()
 
-	{
+	{ 
 		return lblLoginForm.getText();
 	}
 	public void getLoginDetail(String name,String pass)
@@ -41,12 +43,18 @@ public static final Logger log=Logger.getLogger(Login.class.getName());
 		btnSubmit.click();
 	}
 	
+	
+	public void getEmail(XSSFRow xssfRow)
+	{
+		log.info("=====Typing the USername======="+xssfRow.toString());
+		txtLoginUsername.sendKeys(String.valueOf(xssfRow));
+	}
 	public void getEmail(String email)
 	{
-		log.info("=====Typing the USername======="+email.toString());
+		log.info("=====Typing the USername======="+ email);
 		txtLoginUsername.sendKeys(email);
 	}
-	public void getPaasword(String pass)
+	public void getPassword(String pass)
 	{
 		log.info("=====Typing the Password======="+pass.toString());
 		txtPassword.sendKeys(pass);
@@ -61,5 +69,10 @@ public static final Logger log=Logger.getLogger(Login.class.getName());
 	{
 		log.info("=======Initiating Login page Element=========");
 		PageFactory.initElements(driver, this);
+	}
+
+	public void getPassword(XSSFCell cell) {
+		// TODO Auto-generated method stub
+		
 	}
 }

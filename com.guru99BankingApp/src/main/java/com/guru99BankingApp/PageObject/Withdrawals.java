@@ -31,6 +31,7 @@ public class Withdrawals
 	
 	public void getWithdrawalDetails(String accID,String amt,String desc)
 	{
+		
 		txtAccountNoID.sendKeys(accID);
 		txtAmount.sendKeys(amt);
 		txtDescription.sendKeys(desc);

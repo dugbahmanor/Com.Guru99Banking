@@ -45,13 +45,23 @@ public UtilityLibrary() throws Exception
 		}
 	}
 
+public String getCreatePassword()
+{
+	return Pro.getProperty("CreatePassword");
+}
 public String getIeDriver() {
 	// TODO Auto-generated method stub
 	return Pro.getProperty("Ie");
 }
 public String getUserName()
-{
+{//////
 	log.info("===========fetching Username data from Utility property=============");
+	return Pro.getProperty("UserName");
+}
+
+public String getUserID()
+{//////
+	log.info("===========fetching UserID data from Utility property=============");
 	return Pro.getProperty("UserID");
 }
 
@@ -62,6 +72,22 @@ public String getPassword()
 	return Pro.getProperty("Password");
 }
 
+public String getDay()
+{
+	log.info("====Typing day value===="+Pro.getProperty("Day"));
+	return Pro.getProperty("Day");
+}
+
+public String getMonth()
+{
+	log.info("====Typing Month value===="+Pro.getProperty("Month"));
+	return Pro.getProperty("Month");
+}
+public String getYear()
+{
+	log.info("====Typing Year value===="+Pro.getProperty("Year"));
+	return Pro.getProperty("Year");
+}
 public String getPin()
 {
 	return Pro.getProperty("Pin");
@@ -87,6 +113,13 @@ public String GetEmail()
 {
 	return Pro.getProperty("Email");
 }
+
+public String getState() {
+	// TODO Auto-generated method stub
+	return Pro.getProperty("State");
+}
+
+
 
 
 }

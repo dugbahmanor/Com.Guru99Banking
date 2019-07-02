@@ -6,6 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -13,23 +14,31 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import com.guru99BankingApp.Configuration.ExcelDataReader;
 import com.guru99BankingApp.Configuration.UtilityLibrary;
+import com.guru99BankingApp.ExcelReader.ReadExcelData;
 
 public class Testbase
 {
 
 	public static final Logger log=Logger.getLogger(Testbase.class.getName());
 	public  UtilityLibrary ul;//=new  UtilityLibrary();
-	public ExcelDataReader excel;
+	public ReadExcelData excel;
 	public void Init() throws Throwable
 	{
 		String log4jpath="Log4j.properties";
 		PropertyConfigurator.configure(log4jpath);
 		 ul=new UtilityLibrary();
+		 excel=new ReadExcelData();
 		 Browserlunch("chrome");
 	}
 	
+	
+	
 	public static WebDriver driver ;
 	
+	public void getAlert()
+	{
+		//Alert art =new Alert();
+	}
 	public  WebDriver Browserlunch(String name)
 	{
 		if(name.equalsIgnoreCase("chrome"))
@@ -63,11 +72,11 @@ public class Testbase
 		driver.manage().timeouts().implicitlyWait(sec, TimeUnit.SECONDS);
 	}
 	
-public String[][] getData(String sheetname,String excelname) throws FileNotFoundException
+public Object[][] getData(String sheetname) throws Exception
 {
-	String path="./Config/"+excelname;
-	excel=new ExcelDataReader(path);
-	String [][] data=excel.getStringCellData(sheetname);
+	//String path="./Config/"+excelname;
+	//excel=new ReadExcelData();
+	Object[][] data=excel.getExcelData(sheetname);
 	return data;
 	
 }

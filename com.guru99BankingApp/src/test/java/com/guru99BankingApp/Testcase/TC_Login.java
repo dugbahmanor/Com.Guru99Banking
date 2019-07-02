@@ -1,11 +1,8 @@
 package com.guru99BankingApp.Testcase;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -19,30 +16,15 @@ public class TC_Login extends Testbase
 	public Login lg;
 	public ExcelDataReader excel;
 	ReadExcelData exe;
-	/*
-	@DataProvider(name="Login")
-	public String[][] getstringdata(String sheetname,String excelname) throws IOException
+	
+	
+	@DataProvider(name="kogin")
+	public Object[][] getdata(String shtname)
 	{
-		excelname="Gurubanking.xlsx";
-		
-		//String [][] dataset=exe.getMultiData("Login","./Config/Gurubanking.xlsx");
-		//return dataset;
+		Object[][] data=exe.getExcelData(shtname);
+		return data;
 	}
 	
-	@DataProvider(name="login")
-public String[][] getlogindata(String shtname,String excel) throws FileNotFoundException
-{
-		String [][] data=getData("Login","Gurubanking.xlsx");
-		return data;
-	
-}
-
-	@DataProvider(name="login")
-	public String  getLogin(String name,String excel)
-	{
-		//String data=exe.getCellData("Login", "Gurubanking.xlsx");
-		//return data;
-	}*/
 	@BeforeClass
 	public void setUp() throws Throwable
 	{
@@ -54,17 +36,26 @@ public String[][] getlogindata(String shtname,String excel) throws FileNotFoundE
 		
 	}
 	//getlogindata
-	@Test(dataProvider="Login")
-	public void LoginWithTestData(String name,String pass)
+	@Test(dataProvider="kogin")
+	public void LoginWithTestData(String username,String pass)
 	{
-		lg.getEmail(name);
-		lg.getPaasword(pass);
 		
-	}
+		
+	lg.getEmail(username);
+		
+		lg.getPassword(pass);
+		//lg.getEmail(exe.getStringData("Login", 2, 0));
+		//lg.getEmail(name);
+		//lg.getPaasword(pass);
+		//lg.getPaasword(exe.getStringData("Login", 2, 1));
+		//System.out.println(name);
+		//System.out.println(pass);
+		lg.getSubmit();
 	
+	}
 	@AfterTest
 	public void tearDown()
 	{
-		getDriverClose();
+	//	getDriverClose();
 	}
 }

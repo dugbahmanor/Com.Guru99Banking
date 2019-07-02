@@ -153,3 +153,696 @@
 2019-05-26 19:45:54 INFO  Login:35 - ==========Enter username into Username field=====mngr193675
 2019-05-26 19:45:54 INFO  Login:37 - =========Enter Password into passwor field======ysagEje
 2019-05-26 19:45:54 INFO  Login:40 - ====CLicking on the submit======
+2019-06-07 20:10:42 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:10:59 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:11:08 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:12:15 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:12:19 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:12:24 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:19:12 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:19:17 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:19:21 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:22:10 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:22:15 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:22:20 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:26:04 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:26:09 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:26:14 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:27:27 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:27:31 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:27:36 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:27:59 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:28:03 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:28:07 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 20:35:31 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 20:35:34 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 20:35:37 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 21:03:18 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 21:03:26 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 21:03:30 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 21:07:45 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 21:07:49 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 21:07:53 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 21:18:01 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 21:18:04 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 21:18:07 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 22:29:18 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 22:29:21 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 22:29:24 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 22:31:04 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 22:31:08 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 22:31:13 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 22:31:13 INFO  Login:46 - =====Typing the USername=======mngr193675
+2019-06-07 22:31:14 INFO  Login:51 - =====Typing the Password=======ysagEje1
+2019-06-07 22:31:38 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 22:31:42 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 22:31:57 INFO  Login:62 - =======Initiating Login page Element=========
+2019-06-07 22:31:57 INFO  Login:46 - =====Typing the USername=======mngr193675
+2019-06-07 22:31:58 INFO  Login:51 - =====Typing the Password=======ysagEje1
+2019-06-07 22:34:17 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 22:34:21 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 22:34:25 INFO  Login:64 - =======Initiating Login page Element=========
+2019-06-07 22:34:25 INFO  Login:48 - =====Typing the USername=======mngr193675
+2019-06-07 22:34:25 INFO  Login:53 - =====Typing the Password=======ysagEje1
+2019-06-07 22:34:25 INFO  Login:58 - =====Clicking Submit Button=======
+2019-06-07 23:31:50 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-07 23:31:54 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-07 23:31:59 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-07 23:31:59 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-07 23:31:59 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-07 23:31:59 INFO  Login:64 - =====Clicking Submit Button=======
+2019-06-08 11:00:49 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:01:14 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:01:25 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:01:28 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:01:28 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:01:28 INFO  Login:64 - =====Clicking Submit Button=======
+2019-06-08 11:12:03 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:12:08 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:12:13 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:12:13 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:12:13 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:12:13 INFO  Login:64 - =====Clicking Submit Button=======
+2019-06-08 11:14:14 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:14:17 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:14:23 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:14:24 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:14:24 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:21:26 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:21:35 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:21:42 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:21:42 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:21:42 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:25:33 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:25:37 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:25:44 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:25:44 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:25:44 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:25:44 INFO  Login:54 - =====Typing the USername=======mngr199526 
+2019-06-08 11:25:46 INFO  Login:59 - =====Typing the Password=======ymYputa
+2019-06-08 11:31:00 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:31:04 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:31:25 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:31:25 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:31:25 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:31:25 INFO  Login:49 - =====Typing the USername=======<xml-fragment r="2" spans="1:2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>43</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>42</main:v>
+  </main:c>
+</xml-fragment>
+2019-06-08 11:31:27 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:35:36 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:35:38 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:35:42 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:35:42 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:35:42 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:35:42 INFO  Login:49 - =====Typing the USername=======<xml-fragment r="2" spans="1:2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>43</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>42</main:v>
+  </main:c>
+</xml-fragment>
+2019-06-08 11:35:42 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:36:09 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:36:12 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:36:18 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:36:18 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:36:18 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:36:18 INFO  Login:49 - =====Typing the USername=======<xml-fragment r="2" spans="1:2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>43</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>42</main:v>
+  </main:c>
+</xml-fragment>
+2019-06-08 11:36:19 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:37:05 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:37:08 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:37:11 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:37:11 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:37:11 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:37:11 INFO  Login:54 - =====Typing the USername=======mngr199526 
+2019-06-08 11:37:11 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:39:49 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:39:52 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:39:56 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:39:56 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:39:56 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:39:56 INFO  Login:54 - =====Typing the USername=======mngr199526 
+2019-06-08 11:39:56 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:39:56 INFO  Login:54 - =====Typing the USername=======ymYputa
+2019-06-08 11:39:56 INFO  Login:59 - =====Typing the Password=======ymYputa
+2019-06-08 11:39:56 INFO  Login:54 - =====Typing the USername=======mngr193675
+2019-06-08 11:39:56 INFO  Login:59 - =====Typing the Password=======mngr193675
+2019-06-08 11:39:56 INFO  Login:54 - =====Typing the USername=======ysagEje1
+2019-06-08 11:39:57 INFO  Login:59 - =====Typing the Password=======ysagEje1
+2019-06-08 11:39:57 INFO  Login:54 - =====Typing the USername=======mngr193677
+2019-06-08 11:39:57 INFO  Login:59 - =====Typing the Password=======mngr193677
+2019-06-08 11:39:57 INFO  Login:54 - =====Typing the USername=======ysagEje2
+2019-06-08 11:39:57 INFO  Login:59 - =====Typing the Password=======ysagEje2
+2019-06-08 11:39:57 INFO  Login:54 - =====Typing the USername=======mngr193678
+2019-06-08 11:39:57 INFO  Login:59 - =====Typing the Password=======mngr193678
+2019-06-08 11:39:57 INFO  Login:54 - =====Typing the USername=======ysagEje3
+2019-06-08 11:39:57 INFO  Login:59 - =====Typing the Password=======ysagEje3
+2019-06-08 11:41:08 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:41:11 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:41:15 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:41:15 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:41:15 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======mngr199526 
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======ymYputa
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======ymYputa
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======mngr193675
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======mngr193675
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======ysagEje1
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======ysagEje1
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======mngr193677
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======mngr193677
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======ysagEje2
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======ysagEje2
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======mngr193678
+2019-06-08 11:41:15 INFO  Login:59 - =====Typing the Password=======mngr193678
+2019-06-08 11:41:15 INFO  Login:54 - =====Typing the USername=======ysagEje3
+2019-06-08 11:41:16 INFO  Login:59 - =====Typing the Password=======ysagEje3
+2019-06-08 11:41:16 INFO  Login:64 - =====Clicking Submit Button=======
+2019-06-08 11:42:15 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 11:42:18 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 11:42:23 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 11:42:23 INFO  ReadExcelData:50 -  ==== finding total row in the sheet========== 4
+2019-06-08 11:42:23 INFO  ReadExcelData:58 -  ==== finding total cell in the sheet========== 2
+2019-06-08 11:42:23 INFO  Login:54 - =====Typing the USername=======mngr199526 
+2019-06-08 11:42:23 INFO  Login:59 - =====Typing the Password=======mngr199526 
+2019-06-08 11:42:23 INFO  Login:59 - =====Typing the Password=======ymYputa
+2019-06-08 11:42:23 INFO  Login:54 - =====Typing the USername=======mngr193675
+2019-06-08 11:42:23 INFO  Login:59 - =====Typing the Password=======mngr193675
+2019-06-08 11:42:23 INFO  Login:59 - =====Typing the Password=======ysagEje1
+2019-06-08 11:42:24 INFO  Login:54 - =====Typing the USername=======mngr193677
+2019-06-08 11:42:24 INFO  Login:59 - =====Typing the Password=======mngr193677
+2019-06-08 11:42:24 INFO  Login:59 - =====Typing the Password=======ysagEje2
+2019-06-08 11:42:24 INFO  Login:54 - =====Typing the USername=======mngr193678
+2019-06-08 11:42:24 INFO  Login:59 - =====Typing the Password=======mngr193678
+2019-06-08 11:42:24 INFO  Login:59 - =====Typing the Password=======ysagEje3
+2019-06-08 11:42:24 INFO  Login:64 - =====Clicking Submit Button=======
+2019-06-08 12:01:59 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 12:02:04 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 12:02:12 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-08 12:03:46 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-08 12:03:52 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-08 12:04:02 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-12 08:16:42 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-12 08:17:09 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-12 08:17:17 INFO  Login:70 - =======Initiating Login page Element=========
+2019-06-12 08:17:17 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-06-12 08:17:17 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-06-12 08:17:17 INFO  Login:37 - ==========Enter username into Username field=====mngr199526 
+2019-06-12 08:17:18 INFO  Login:39 - =========Enter Password into passwor field======ymYputa 
+2019-06-12 08:17:18 INFO  Login:42 - ====CLicking on the submit======
+2019-06-12 08:17:19 INFO  TC_loginWithDeffirentData:28 - 
+2019-06-12 08:25:50 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-06-12 08:25:54 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-06-12 08:26:01 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 18:12:55 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 18:16:12 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 18:16:24 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 18:16:41 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 18:16:44 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 18:16:44 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:16:44 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:16:44 INFO  AddNewCustomer:34 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 18:16:44 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:16:44 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:16:44 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 18:16:51 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 18:16:51 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 18:16:57 INFO  AddNewCustomer:37 - calling getimplicitly wait method
+2019-07-01 18:25:22 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 18:25:32 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 18:25:39 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 18:25:40 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 18:25:41 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:25:41 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:25:41 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 18:25:41 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:25:41 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:25:41 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 18:25:41 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 18:25:41 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 18:25:51 INFO  AddNewCustomer:52 - calling getimplicitly wait method
+2019-07-01 18:27:16 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 18:27:21 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 18:27:30 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 18:27:30 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 18:27:30 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:27:30 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:27:30 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 18:27:30 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:27:30 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:27:30 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 18:27:30 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 18:27:30 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 18:34:27 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 18:34:38 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 18:34:53 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 18:34:53 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 18:34:53 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:34:53 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:34:53 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 18:34:53 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 18:34:53 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 18:34:53 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 18:34:53 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 18:34:53 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 19:33:15 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 19:33:36 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 19:33:48 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 19:33:48 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 19:33:48 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 19:33:48 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 19:33:48 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 19:33:48 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 19:33:48 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 19:33:48 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 19:33:48 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 19:33:48 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 19:33:58 INFO  AddNewCustomer:46 - ======login page not found===========
+2019-07-01 19:33:58 INFO  AddNewCustomer:49 - calling getimplicitly wait method
+2019-07-01 20:34:37 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 20:34:43 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 20:34:54 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 20:34:54 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 20:34:54 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 20:34:54 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 20:34:54 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 20:34:54 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 20:34:54 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 20:34:54 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 20:34:54 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 20:34:54 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 20:34:56 INFO  AddNewCustomer:48 - calling getimplicitly wait method
+2019-07-01 20:35:44 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 20:35:47 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 20:35:51 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 20:35:51 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 20:35:51 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 20:35:51 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 20:35:51 INFO  AddNewCustomer:37 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 20:35:51 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 20:35:51 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 20:35:51 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 20:35:51 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 20:35:51 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 21:18:31 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-01 21:18:44 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-01 21:18:49 INFO  Customer:118 - ============initiating NewCustomer class Element=====
+2019-07-01 21:18:49 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-01 21:18:49 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-01 21:18:49 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 21:18:49 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 21:18:49 INFO  AddNewCustomer:40 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-01 21:18:49 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-01 21:18:49 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-01 21:18:49 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-01 21:18:49 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-01 21:18:49 INFO  Login:42 - ====CLicking on the submit======
+2019-07-01 21:18:54 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 10:54:16 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 10:54:24 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 10:54:35 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 10:54:35 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 10:54:35 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 10:54:35 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:54:35 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:54:35 INFO  AddNewCustomer:40 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-02 10:54:35 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:54:35 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:54:35 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 10:54:35 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 10:54:36 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 10:54:37 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 10:54:37 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 10:54:39 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:54:39 INFO  Customer:51 - =====enter the customer name=========== mngr206391 
+2019-07-02 10:54:39 INFO  Customer:59 - ======customer gender is male====
+2019-07-02 10:54:39 INFO  UtilityLibrary:67 - ====Typing day value====20
+2019-07-02 10:54:39 INFO  UtilityLibrary:73 - ====Typing Month value====09
+2019-07-02 10:54:39 INFO  UtilityLibrary:78 - ====Typing Year value====1983
+2019-07-02 10:54:39 INFO  Customer:74 - the day of DOB is = 20
+2019-07-02 10:54:39 INFO  Customer:84 - ========Typing the Address of the customer========= 22 wild goose drive se14 5ll
+2019-07-02 10:54:40 INFO  Customer:90 - ========Typing the city of the customer========= Queens Road Peckham
+2019-07-02 10:54:40 INFO  Customer:100 - ========Typing the State of The Customer=========London
+2019-07-02 10:54:40 INFO  Customer:104 - =======Typing the Mobile of The Customer ==========07956056879
+2019-07-02 10:54:40 INFO  Customer:95 - ========Typing the Pin of the Customer=========19manor82
+2019-07-02 10:54:40 INFO  Customer:108 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 10:56:50 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 10:56:54 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 10:57:00 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 10:57:00 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 10:57:00 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 10:57:00 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:57:00 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:57:00 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 10:57:00 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:57:00 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:57:00 INFO  Login:37 - ==========Enter username into Username field=====Allen Manor
+2019-07-02 10:57:00 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 10:57:00 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 10:58:35 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 10:58:38 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 10:58:43 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 10:58:43 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 10:58:43 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 10:58:43 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:58:43 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:58:43 INFO  AddNewCustomer:40 - login into the application with username= mngr206391 and password  =qenAgyr 
+2019-07-02 10:58:43 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:58:43 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 10:58:43 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 10:58:43 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 10:58:43 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 10:58:45 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 10:58:45 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 10:58:46 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 10:58:46 INFO  Customer:51 - =====enter the customer name=========== mngr206391 
+2019-07-02 10:58:46 INFO  Customer:65 - =====customer gender is female======
+2019-07-02 10:58:46 INFO  UtilityLibrary:67 - ====Typing day value====20
+2019-07-02 10:58:46 INFO  UtilityLibrary:73 - ====Typing Month value====09
+2019-07-02 10:58:46 INFO  UtilityLibrary:78 - ====Typing Year value====1983
+2019-07-02 10:58:46 INFO  Customer:74 - the day of DOB is = 20
+2019-07-02 10:58:46 INFO  Customer:84 - ========Typing the Address of the customer========= 22 wild goose drive se14 5ll
+2019-07-02 10:58:47 INFO  Customer:90 - ========Typing the city of the customer========= Queens Road Peckham
+2019-07-02 10:58:47 INFO  Customer:100 - ========Typing the State of The Customer=========London
+2019-07-02 10:58:47 INFO  Customer:104 - =======Typing the Mobile of The Customer ==========07956056879
+2019-07-02 10:58:47 INFO  Customer:95 - ========Typing the Pin of the Customer=========19manor82
+2019-07-02 10:58:47 INFO  Customer:108 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 10:59:49 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 10:59:53 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 11:00:00 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 11:00:00 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:00:00 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:00:00 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:00:00 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 11:00:00 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 11:00:00 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:00:00 INFO  UtilityLibrary:60 - ===========fetching Password data from Utility property=============
+2019-07-02 11:00:00 INFO  Login:37 - ==========Enter username into Username field=====Allen Manor
+2019-07-02 11:00:00 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:00:00 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:01:54 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:01:58 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 11:02:05 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 11:02:05 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:02:05 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:02:06 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:02:06 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:02:06 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 11:02:06 INFO  UtilityLibrary:60 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:02:06 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:02:06 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:02:06 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:02:06 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:02:07 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:02:07 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:02:10 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:02:10 INFO  Customer:51 - =====enter the customer name=========== Allen Manor
+2019-07-02 11:02:10 INFO  Customer:65 - =====customer gender is female======
+2019-07-02 11:02:10 INFO  UtilityLibrary:73 - ====Typing day value====20
+2019-07-02 11:02:10 INFO  UtilityLibrary:79 - ====Typing Month value====09
+2019-07-02 11:02:10 INFO  UtilityLibrary:84 - ====Typing Year value====1983
+2019-07-02 11:02:10 INFO  Customer:74 - the day of DOB is = 20
+2019-07-02 11:02:10 INFO  Customer:84 - ========Typing the Address of the customer========= 22 wild goose drive se14 5ll
+2019-07-02 11:02:10 INFO  Customer:90 - ========Typing the city of the customer========= Queens Road Peckham
+2019-07-02 11:02:10 INFO  Customer:100 - ========Typing the State of The Customer=========London
+2019-07-02 11:02:10 INFO  Customer:104 - =======Typing the Mobile of The Customer ==========07956056879
+2019-07-02 11:02:10 INFO  Customer:95 - ========Typing the Pin of the Customer=========19manor82
+2019-07-02 11:02:10 INFO  Customer:108 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:03:02 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:03:06 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V1/index.php
+2019-07-02 11:03:12 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 11:03:12 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:03:12 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:03:12 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:03:12 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:03:12 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 11:03:12 INFO  UtilityLibrary:60 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:03:12 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:03:12 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:03:12 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:03:12 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:03:14 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:03:14 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:03:16 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:03:16 INFO  Customer:51 - =====enter the customer name=========== Allen Manor
+2019-07-02 11:03:16 INFO  Customer:65 - =====customer gender is female======
+2019-07-02 11:03:16 INFO  UtilityLibrary:73 - ====Typing day value====20
+2019-07-02 11:03:16 INFO  UtilityLibrary:79 - ====Typing Month value====09
+2019-07-02 11:03:16 INFO  UtilityLibrary:84 - ====Typing Year value====1983
+2019-07-02 11:03:16 INFO  Customer:74 - the day of DOB is = 20
+2019-07-02 11:03:16 INFO  Customer:84 - ========Typing the Address of the customer========= 22 wild goose drive se14 5ll
+2019-07-02 11:03:16 INFO  Customer:90 - ========Typing the city of the customer========= Queens Road Peckham
+2019-07-02 11:03:17 INFO  Customer:100 - ========Typing the State of The Customer=========London
+2019-07-02 11:03:17 INFO  Customer:104 - =======Typing the Mobile of The Customer ==========07956056879
+2019-07-02 11:03:17 INFO  Customer:95 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:03:17 INFO  Customer:108 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:08:34 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:08:38 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:08:44 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 11:08:44 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:08:44 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:08:44 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:08:44 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:08:44 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 11:08:44 INFO  UtilityLibrary:60 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:08:44 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:08:44 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:08:45 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:08:45 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:10:26 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:10:31 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:10:47 INFO  Customer:130 - ============initiating NewCustomer class Element=====
+2019-07-02 11:10:48 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:10:48 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:10:48 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:10:48 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:10:48 INFO  AddNewCustomer:40 - login into the application with username= Allen Manorand password  =qenAgyr 
+2019-07-02 11:10:48 INFO  UtilityLibrary:60 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:10:48 INFO  UtilityLibrary:66 - ===========fetching Password data from Utility property=============
+2019-07-02 11:10:48 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:10:48 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:10:48 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:10:50 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:10:50 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:10:52 INFO  UtilityLibrary:54 - ===========fetching Username data from Utility property=============
+2019-07-02 11:10:52 INFO  Customer:51 - =====enter the customer name=========== Allen Manor
+2019-07-02 11:10:52 INFO  Customer:65 - =====customer gender is female======
+2019-07-02 11:10:52 INFO  UtilityLibrary:73 - ====Typing day value====20
+2019-07-02 11:10:52 INFO  UtilityLibrary:79 - ====Typing Month value====09
+2019-07-02 11:10:52 INFO  UtilityLibrary:84 - ====Typing Year value====1983
+2019-07-02 11:10:52 INFO  Customer:74 - the day of DOB is = 20
+2019-07-02 11:10:52 INFO  Customer:84 - ========Typing the Address of the customer========= 22 wild goose drive se14 5ll
+2019-07-02 11:10:52 INFO  Customer:90 - ========Typing the city of the customer========= Queens Road Peckham
+2019-07-02 11:10:52 INFO  Customer:100 - ========Typing the State of The Customer=========London
+2019-07-02 11:10:52 INFO  Customer:104 - =======Typing the Mobile of The Customer ==========07956056879
+2019-07-02 11:10:52 INFO  Customer:95 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:10:52 INFO  Customer:108 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:24:48 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:24:53 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:25:01 INFO  Customer:134 - ============initiating NewCustomer class Element=====
+2019-07-02 11:25:01 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:25:01 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:25:01 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:25:01 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:25:01 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 11:25:01 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:25:01 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:25:01 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:25:01 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:25:01 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:25:02 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:25:02 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:25:43 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:25:48 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:25:55 INFO  Customer:134 - ============initiating NewCustomer class Element=====
+2019-07-02 11:25:55 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:25:55 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:25:55 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:25:55 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:25:55 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 11:25:55 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:25:55 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:25:55 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:25:55 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:25:55 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:26:00 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:26:00 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:26:02 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:26:02 INFO  Customer:51 - =====enter the customer name=========== mandu
+2019-07-02 11:26:02 INFO  Customer:65 - =====customer gender is female======
+2019-07-02 11:26:03 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 11:26:03 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 11:26:03 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 11:26:03 INFO  Customer:74 - the day of DOB is = 27
+2019-07-02 11:26:03 INFO  Customer:88 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 11:26:03 INFO  Customer:94 - ========Typing the city of the customer========= Queens 
+2019-07-02 11:26:03 INFO  Customer:104 - ========Typing the State of The Customer=========London
+2019-07-02 11:26:03 INFO  Customer:108 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 11:26:03 INFO  Customer:99 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:26:03 INFO  Customer:112 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:26:03 INFO  Customer:83 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 11:26:03 INFO  Customer:122 - ======Clicking submit button to create new customer===========
+2019-07-02 11:40:09 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:40:22 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:40:28 INFO  Customer:145 - ============initiating NewCustomer class Element=====
+2019-07-02 11:40:28 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:40:28 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:40:28 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:40:28 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:40:28 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 11:40:28 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:40:28 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:40:28 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:40:28 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:40:29 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:40:33 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:40:33 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:40:36 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:40:36 INFO  Customer:62 - =====enter the customer name=========== mandu
+2019-07-02 11:40:36 INFO  Customer:76 - =====customer gender is female======
+2019-07-02 11:40:36 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 11:40:36 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 11:40:36 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 11:40:36 INFO  Customer:85 - the day of DOB is = 27
+2019-07-02 11:40:36 INFO  Customer:99 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 11:40:36 INFO  Customer:105 - ========Typing the city of the customer========= Queens 
+2019-07-02 11:40:36 INFO  Customer:115 - ========Typing the State of The Customer=========London
+2019-07-02 11:40:36 INFO  Customer:119 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 11:40:37 INFO  Customer:110 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:40:37 INFO  Customer:123 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:40:37 INFO  Customer:94 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 11:40:37 INFO  Customer:133 - ======Clicking submit button to create new customer===========
+2019-07-02 11:41:31 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:41:35 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:41:43 INFO  Customer:145 - ============initiating NewCustomer class Element=====
+2019-07-02 11:41:43 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:41:43 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:41:43 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:41:43 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:41:43 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 11:41:43 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:41:43 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:41:43 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:41:43 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:41:43 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:41:49 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:41:49 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:41:54 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:41:54 INFO  Customer:62 - =====enter the customer name=========== mandu
+2019-07-02 11:41:54 INFO  Customer:76 - =====customer gender is female======
+2019-07-02 11:41:54 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 11:41:54 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 11:41:54 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 11:41:54 INFO  Customer:85 - the day of DOB is = 27
+2019-07-02 11:41:54 INFO  Customer:99 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 11:41:54 INFO  Customer:105 - ========Typing the city of the customer========= Queens 
+2019-07-02 11:41:54 INFO  Customer:115 - ========Typing the State of The Customer=========London
+2019-07-02 11:41:54 INFO  Customer:119 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 11:41:54 INFO  Customer:110 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:41:54 INFO  Customer:123 - ========Typing the Email of the Customer=========Allenmanor@gmail.com
+2019-07-02 11:41:55 INFO  Customer:94 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 11:41:55 INFO  Customer:133 - ======Clicking submit button to create new customer===========
+2019-07-02 11:47:57 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 11:48:10 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 11:48:39 INFO  Customer:151 - ============initiating NewCustomer class Element=====
+2019-07-02 11:48:43 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 11:48:44 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 11:48:45 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:48:45 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:48:45 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 11:48:45 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 11:48:45 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 11:48:45 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 11:48:45 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 11:48:45 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 11:48:52 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 11:48:52 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 11:48:58 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 11:48:58 INFO  Customer:66 - =====enter the customer name=========== mandu
+2019-07-02 11:48:58 INFO  Customer:80 - =====customer gender is female======
+2019-07-02 11:49:00 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 11:49:00 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 11:49:00 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 11:49:00 INFO  Customer:89 - the day of DOB is = 27
+2019-07-02 11:49:00 INFO  Customer:103 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 11:49:00 INFO  Customer:109 - ========Typing the city of the customer========= Queens 
+2019-07-02 11:49:01 INFO  Customer:119 - ========Typing the State of The Customer=========London
+2019-07-02 11:49:01 INFO  Customer:123 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 11:49:01 INFO  Customer:114 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 11:49:01 INFO  Customer:129 - ========Typing the Email of the Customer=========@gmail.com
+2019-07-02 11:49:01 INFO  Customer:98 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 11:49:01 INFO  Customer:139 - ======Clicking submit button to create new customer===========
+2019-07-02 12:03:24 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 12:03:29 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 12:03:34 INFO  Customer:151 - ============initiating NewCustomer class Element=====
+2019-07-02 12:03:34 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 12:03:34 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 12:03:34 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 12:03:34 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 12:03:34 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 12:03:34 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 12:03:34 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 12:03:34 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 12:03:34 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 12:03:34 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 12:03:36 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 12:03:36 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 12:03:36 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 12:03:36 INFO  Customer:66 - =====enter the customer name=========== mandu
+2019-07-02 12:03:36 INFO  Customer:80 - =====customer gender is female======
+2019-07-02 12:03:36 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 12:03:36 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 12:03:36 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 12:03:36 INFO  Customer:89 - the day of DOB is = 27
+2019-07-02 12:03:37 INFO  Customer:103 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 12:03:37 INFO  Customer:109 - ========Typing the city of the customer========= Queens 
+2019-07-02 12:03:37 INFO  Customer:119 - ========Typing the State of The Customer=========London
+2019-07-02 12:03:37 INFO  Customer:123 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 12:03:37 INFO  Customer:114 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 12:03:37 INFO  Customer:129 - ========Typing the Email of the Customer=========14555@gmail.com
+2019-07-02 12:03:37 INFO  Customer:98 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 12:03:37 INFO  Customer:139 - ======Clicking submit button to create new customer===========
+2019-07-02 12:04:16 INFO  UtilityLibrary:25 - =========calling ChromeDriver===========
+2019-07-02 12:04:19 INFO  UtilityLibrary:19 - =====lunching the URL ========http://demo.guru99.com/V4/index.php
+2019-07-02 12:04:26 INFO  Customer:151 - ============initiating NewCustomer class Element=====
+2019-07-02 12:04:26 INFO  Login:70 - =======Initiating Login page Element=========
+2019-07-02 12:04:26 INFO  Manager:96 - =======initiating Manager Class Element=======
+2019-07-02 12:04:26 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 12:04:26 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 12:04:26 INFO  AddNewCustomer:40 - login into the application with username= manduand password  =qenAgyr 
+2019-07-02 12:04:26 INFO  UtilityLibrary:64 - ===========fetching UserID data from Utility property=============
+2019-07-02 12:04:26 INFO  UtilityLibrary:70 - ===========fetching Password data from Utility property=============
+2019-07-02 12:04:26 INFO  Login:37 - ==========Enter username into Username field=====mngr206391 
+2019-07-02 12:04:26 INFO  Login:39 - =========Enter Password into passwor field======qenAgyr 
+2019-07-02 12:04:26 INFO  Login:42 - ====CLicking on the submit======
+2019-07-02 12:04:27 INFO  AddNewCustomer:51 - calling getimplicitly wait method
+2019-07-02 12:04:27 INFO  Manager:42 - =====clicking on New Customer Label=======
+2019-07-02 12:04:29 INFO  UtilityLibrary:58 - ===========fetching Username data from Utility property=============
+2019-07-02 12:04:29 INFO  Customer:66 - =====enter the customer name=========== mandu
+2019-07-02 12:04:29 INFO  Customer:80 - =====customer gender is female======
+2019-07-02 12:04:29 INFO  UtilityLibrary:77 - ====Typing day value====27
+2019-07-02 12:04:29 INFO  UtilityLibrary:83 - ====Typing Month value====08
+2019-07-02 12:04:29 INFO  UtilityLibrary:88 - ====Typing Year value====1980
+2019-07-02 12:04:29 INFO  Customer:89 - the day of DOB is = 27
+2019-07-02 12:04:29 INFO  Customer:103 - ========Typing the Address of the customer========= 13 cedars road
+2019-07-02 12:04:29 INFO  Customer:109 - ========Typing the city of the customer========= Queens 
+2019-07-02 12:04:29 INFO  Customer:119 - ========Typing the State of The Customer=========London
+2019-07-02 12:04:29 INFO  Customer:123 - =======Typing the Mobile of The Customer ==========07956146879
+2019-07-02 12:04:29 INFO  Customer:114 - ========Typing the Pin of the Customer=========20098336
+2019-07-02 12:04:29 INFO  Customer:129 - ========Typing the Email of the Customer=========14555@gmail.com
+2019-07-02 12:04:29 INFO  Customer:98 - ========Typing the pass of the customer========= 19mary85
+2019-07-02 12:04:30 INFO  Customer:139 - ======Clicking submit button to create new customer===========
